@@ -21,7 +21,7 @@ Clone this repository to your local machine:
 
 Navigate to the project directory:
 
-     cd balloon-chat
+     cd balaozero
 
 Start a simple HTTP server:
     
