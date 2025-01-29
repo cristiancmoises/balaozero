@@ -1,5 +1,5 @@
 
-Para o tutorial em português clique [aqui](https://github.com/cristiancmoises/balaozero/blob/main/README.md).
+Para o tutorial em português clique [aqui](https://github.com/cristiancmoises/balaozero/blob/main/LEIAME.md).
 
 Balãozero is a simple web application designed to enhance video and tutorial creation. Users can type in text that is displayed in chat balloon format, making it easier to present information visually. Whether you're creating educational content or engaging tutorials, this tool can help you convey your message effectively.
 
