@@ -31,3 +31,7 @@ Tecnologias Utilizadas
     HTML
     CSS
     JavaScript
+
+<a href="https://www.youtube.com/watch?v=kusAtLGIlyw" target="_blank">
+    <img src="https://media3.giphy.com/media/gP8owpzTDfQoFMhgHK/giphy.gif" alt="123">
+</a>
