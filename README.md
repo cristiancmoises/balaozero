@@ -1,5 +1,5 @@
 
-Para o tutorial em pôrtugues clique [aqui]().
+Para o tutorial em português clique [aqui]().
 
 Balãozero is a simple web application designed to enhance video and tutorial creation. Users can type in text that is displayed in chat balloon format, making it easier to present information visually. Whether you're creating educational content or engaging tutorials, this tool can help you convey your message effectively.
 
